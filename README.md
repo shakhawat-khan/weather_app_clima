@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![image](https://drive.google.com/file/d/1PHgAaiyVFKvmsf4j1AO9AmcKE5MLpU8B/view?usp=sharing.png)
+![image](https://drive.google.com/file/d/1PHgAaiyVFKvmsf4j1AO9AmcKE5MLpU8B/view?usp=sharing)
